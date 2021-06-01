@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# Hi there 👋
+
+***
+
+> My name is Marcus Vinicius, I've 20 years old,  I'm a student of software development at 42 São Paulo currently. Feel free to check my repositories and see my projects at the course, and what project I'm doing currently.
+
+***
 
 <!--
 **MarcusVinix/MarcusVinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
