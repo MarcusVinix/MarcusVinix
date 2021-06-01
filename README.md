@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|[![MarcusVinix Github stats](https://github-readme-stats.vercel.app/api?username=MarcusVinix&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/MarcusVinix?tab=repositories)   | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVinix&layout=compact&hide_border=true)](https://github.com/MarcusVinix?tab=repositories)  |
+|---|---|
