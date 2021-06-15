@@ -7,8 +7,9 @@
 
 ***
 
-- :man_astronaut: I’m currently learning  Software Engeneering at [42 São Paulo](https://www.42sp.org.br/)
-
+- :man_astronaut: I’m currently study Software Engeneering at [42 São Paulo](https://www.42sp.org.br/)
+- 📫 My E-Mail: vi.ni159marcus@gmail.com
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcus-vinicius-3b4987161/)
 <!--
 **MarcusVinix/MarcusVinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
