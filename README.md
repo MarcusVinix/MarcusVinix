@@ -7,7 +7,7 @@
 
 ***
 
-- :man_astronaut I’m currently learning  Software Engeneering at [42 São Paulo](https://www.42sp.org.br/)
+- :man_astronaut: I’m currently learning  Software Engeneering at [42 São Paulo](https://www.42sp.org.br/)
 
 <!--
 **MarcusVinix/MarcusVinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
