@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MarcusVinix Github stats](https://github-readme-stats.vercel.app/api?username=MarcusVinix&count_private=true&show_icons=true&hide=issues,stars&hide_border=true&theme=react)](https://github.com/MarcusVinix?tab=repositories) 
+![MarcusVinix Github stats](https://github-readme-stats.vercel.app/api?username=MarcusVinix&count_private=true&show_icons=true&hide=issues,stars&hide_border=true&theme=react)(https://github.com/MarcusVinix?tab=repositories) 
