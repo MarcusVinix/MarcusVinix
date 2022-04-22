@@ -3,7 +3,7 @@
 
 ***
 
-> My name is Marcus Vinicius, I've 20 years old,  I'm a student of software development at 42 São Paulo currently. Feel free to check my repositories and see my projects at the course, and what project I'm doing currently.
+> My name is Marcus Vinicius, I've 21 years old,  I'm a student of software development at 42 São Paulo currently. Feel free to check my repositories and see my projects at the course, and what project I'm doing currently.
 
 ***
 
@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![mavinici's 42 stats](https://badge42.vercel.app/api/v2/cl1s31pj8003509l6frpjxl3e/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 |[![MarcusVinix Github stats](https://github-readme-stats.vercel.app/api?username=MarcusVinix&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/MarcusVinix?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVinix&layout=compact&hide_border=true)](https://github.com/MarcusVinix?tab=repositories) |
 |---|---|
+
+
